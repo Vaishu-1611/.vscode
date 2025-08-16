@@ -7,6 +7,5 @@ void HW()
 int main()
 {
     HW();//calling a function
-    
     return 0;
 }
