@@ -29,7 +29,7 @@ Aimed at practicing and understanding programming logic.
 
 Clone this repository:
 
-git clone https://github.com/Vaishu-1611/.vscode/new/main
+git clone https://github.com/Vaishu-1611/.vscode
 cd c-programs
 
 Compile any .c file using:
