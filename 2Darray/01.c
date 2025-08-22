@@ -8,7 +8,7 @@ int main()
     {
         for(int j = 0; j < 4; j++)
         {
-           printf("%d", a[i][j]);
+           printf("%d ", a[i][j]);
         }
         printf("\n");
     }
@@ -23,7 +23,7 @@ int main()
         {
             maxcount=count;
         }
-    printf("The maximum number of 1s of the 2D array are: %d\n",maxcount);
     }
+    printf("The maximum number of 1s of the 2D array are: %d\n",maxcount);
     return 0;
 }
